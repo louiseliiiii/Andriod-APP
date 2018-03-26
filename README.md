@@ -2,6 +2,8 @@
 why hybrid app is more popular now?
 
 Abstract
+
+
 Since IOS and Android are taking the most mobile device market, App is getting
 popular. Developers know that there are two general types of App. One is Web app
 which runs on browser and the other one is local APP which runs on mobile device.
