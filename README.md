@@ -27,17 +27,8 @@ market because it can bring more benefits to company than native model.
 Introduction
 
 
-Native App is the traditional developing App model. For the particular running system
-such as IOS and Android, this model needs developers to apply different
-programming languages and framework on. Java is the main language of
-programming for Android native App. In terms of iOS native App, it is mostly used
-Object-C/Swift.Native App is mostly designed for one type mobile device. It is
-directly installed into the device so does its UI components, database and logic
-framework. Most of them are available in App store and Android Apps on Google
-Play. The use of the API is provided by the official development therefore App has
-smooth performance experience with a small amount of CPU and memory overhead.
-In addition, native development model can achieve cooler effects, better compatibility
-and greater user experience than hybrid model.
+Native APP development is a traditional model where developers can apply different programming languages and frameworks. Java is the most popular language in Android native APP and Object-C/Swift is mostly used in iOS native APP. Specific design contributes to the convenience of installing UI, framework and database components, which also makes native APP popular in mobile market. The current APP store, such as Google Play, not only makes APPs available for users, but also provides official API to support APPs to have smooth performance on mobiles with small CPU utilization and memory overhead. Native development model can achieve smoother compatibility, greater user experience and better flash interaction.
+
 
 Hybrid App applies half native and half HTML5 development model. Its bottom
 function API is built by native containers and the logical functions is finished through
