@@ -10,11 +10,7 @@ which runs on browser and the other one is local APP which runs on mobile device
 Native App is developed for particular mobile system and it has fast reaction speed. It
 also needs high investment of the talented and time to be accomplished. In terms of
 hybrid App, it has half web and half native development which can be applied on
-multiple systems. This is a new model and it does not have mature technology
-therefore the user experience is not really excellent. Currently, HTML5 and cordova
-play an important role in mobile application development because they make anularJS
-and ionic technology available on mobile devices. This also helps hybrid App
-becomes popular in App development model because they bring decent dynamic
+multiple systems.  this is a new model without mature technologies. The user experience is not really excellent. HTML5 and Cordova are important in mobile application development because they support anularJS and ionic technology on mobile devices. This also helps hybrid App becomes popular in App development model because they bring decent dynamic
 effects to phones. For companies, it is necessary to spend money on key points and
 hybrid App needs low investment that is why hybrid App becomes popular. This
 report will introduce what are native and hybrid App in the beginning. The following
